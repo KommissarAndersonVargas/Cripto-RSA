@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1656101063 source:c:\users\anderson\desktop\uergs\programação em funções\exercicio criptografia rsa reserva\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+
