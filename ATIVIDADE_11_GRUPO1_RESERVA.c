@@ -5,6 +5,7 @@
 #include <string.h>
 //------------------------------------------PARA ENTREGA------------------------------------------------------------
 #define SIZE 8000  // tamanho simbolico maximo do array que conta os candidatos para e
+#define SIZE2 500
 #define TAMANHO_MAXIMO_ENTRADA 500 // tamanho simbolico maximo do array string
 
 int dois1=0 , trez1=0 , cinco1=0 , sete1=0 , n1=0 , onze1=0 , treze1=0 , deze1=0 , vintrez1=0 , vintsete1=0 , vintnove1=0 ; // variaveis globais contadoras
